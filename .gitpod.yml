@@ -3,4 +3,4 @@ image:
   
 tasks:
   - init: mix compile
-    command: mix run
+    command: iex -S mix
