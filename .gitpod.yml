@@ -1,2 +1,6 @@
 image:
   file: .gitpod.Dockerfile
+  
+tasks:
+  - init: mix compile
+    command: mix run
