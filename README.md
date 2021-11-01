@@ -2,6 +2,10 @@
 
 This is a [Elixir](https://elixir-lang.org/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
+## Credit
+
+Thanks @tnb24 for providing this template 🙏!
+
 ## Next Steps
 
 Click the button below to start a new development environment:
