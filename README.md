@@ -4,7 +4,7 @@ This is a [Elixir](https://elixir-lang.org/) template configured for ephemeral d
 
 ## Credit
 
-Thanks @tnb24 for providing this template 🙏!
+Thanks [@tnb24](https://github.com/tnb24) for providing this template 🙏!
 
 ## Next Steps
 
